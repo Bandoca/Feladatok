@@ -30,7 +30,7 @@ object Main {
       if (chars.isEmpty) true
       else if (darab(chars,'(') != darab(chars,')')) false
       else if (chars.tail.isEmpty) false
-        else if chars.c
+        else if chars.tail
     }
 
   
