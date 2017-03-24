@@ -1,0 +1,6 @@
+*.zip
+*/.idea
+*/build
+*/target
+*/project/target
+*/project/project
